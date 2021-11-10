@@ -1,2 +1,2 @@
 # NLP-Works
-Labs and Projects I made in the NLP course
+Labs and Projects I made during the NLP course
